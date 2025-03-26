@@ -55,8 +55,27 @@ A brief description of the project and its key features.
 
 ## 🌟 Open Source Contributions
 
-- Contributed to [Open Source Project](https://github.com/opensource/project) by fixing bugs and adding new features.
-- Participated in Hacktoberfest 2024 and successfully merged multiple pull requests.
+Here are some of my notable open source contributions:
+
+### npm Packages
+
+#### [Awesome Package](https://www.npmjs.com/package/awesome-package)
+![npm](https://img.shields.io/npm/dw/awesome-package?label=Downloads&style=flat)
+A brief description of the package and its key features.
+
+#### [Cool Package](https://www.npmjs.com/package/cool-package)
+![npm](https://img.shields.io/npm/dw/cool-package?label=Downloads&style=flat)
+A brief description of the package and its key features.
+
+### Composer Packages
+
+#### [Awesome Composer Package](https://packagist.org/packages/jaysparmar/awesome-composer-package)
+![Packagist](https://img.shields.io/packagist/dt/jaysparmar/awesome-composer-package?label=Downloads&style=flat)
+A brief description of the package and its key features.
+
+#### [Cool Composer Package](https://packagist.org/packages/jaysparmar/cool-composer-package)
+![Packagist](https://img.shields.io/packagist/dt/jaysparmar/cool-composer-package?label=Downloads&style=flat)
+A brief description of the package and its key features.
 
 ## 📊 GitHub Stats
 
