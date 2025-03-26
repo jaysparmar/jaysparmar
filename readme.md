@@ -33,12 +33,15 @@ Hello! I'm Jay Parmar, a passionate software developer based in Bhuj, Kutch, Guj
 I have worked on several notable projects, including:
 
 ### [Kapiva](https://kapiva.in)
+![Kapiva Logo](https://via.placeholder.com/100) <!-- Replace with actual logo URL -->
 A health and wellness e-commerce website that offers a range of Ayurvedic products. My role involved developing and maintaining the backend services, integrating third-party APIs, and ensuring the platform's scalability and performance.
 
 ### [PG Shop](https://pgshop.in)
+![PG Shop Logo](https://via.placeholder.com/100) <!-- Replace with actual logo URL -->
 An online shopping platform that provides a wide range of consumer products. I was responsible for building the frontend using Next.js, implementing responsive design, and optimizing user experience.
 
 ### Eshop
+![Eshop Logo](https://via.placeholder.com/100) <!-- Replace with actual logo URL -->
 A comprehensive e-commerce solution for small and medium-sized businesses. My contributions included developing custom features, integrating payment gateways, and ensuring data security.
 
 ### [Awesome Project](https://github.com/jaysparmar/awesome-project)
@@ -46,6 +49,29 @@ A brief description of the project and its key features.
 
 ### [Another Cool Project](https://github.com/jaysparmar/another-cool-project)
 A brief description of the project and its key features.
+
+## 💼 Work Experience
+
+### Software Developer at ABC Corp
+**Duration**: January 2020 - December 2021
+
+- Developed and maintained web applications using Node.js and React.
+- Integrated third-party APIs and optimized application performance.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
+
+### Full-Stack Developer at XYZ Ltd
+**Duration**: January 2022 - June 2023
+
+- Built and maintained e-commerce platforms using Next.js and MySQL.
+- Implemented responsive design and ensured cross-browser compatibility.
+- Worked on DevOps practices, including CI/CD pipelines and cloud deployments.
+
+### Senior Developer at Tech Innovators
+**Duration**: July 2023 - Present
+
+- Leading a team of developers in creating scalable web applications.
+- Architecting solutions for complex business requirements.
+- Mentoring junior developers and conducting code reviews.
 
 ## 🏆 Achievements and Certifications
 
