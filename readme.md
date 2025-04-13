@@ -1,6 +1,21 @@
-# Jay Parmar
+<table>
+  <tr>
+    <td>
+      <img src="IMG_0427.jpeg" alt="Jay Parmar" width="100" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h1>Jay Parmar</h1>
+    </td>
+  </tr>
+</table>
 
-<img src="IMG_0427.jpeg" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+[![GitHub followers](https://img.shields.io/github/followers/jaysparmar?label=Followers&style=social)](https://github.com/jaysparmar?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/jaysparmar?label=Stars&style=social)](https://github.com/jaysparmar?tab=repositories)
+
+## 👋 About Me
+
+Hello! I'm Jay Parmar, a passionate software developer based in Bhuj, Kutch, Gujarat, India. I hold a diploma in Computer Engineering and have a strong background in various technologies and frameworks...
+
 
 [![GitHub followers](https://img.shields.io/github/followers/jaysparmar?label=Followers&style=social)](https://github.com/jaysparmar?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/jaysparmar?label=Stars&style=social)](https://github.com/jaysparmar?tab=repositories)
