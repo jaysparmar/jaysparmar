@@ -49,7 +49,7 @@ I have worked on several notable projects, including:
 
 <p align="left">
   <a href="https://kapiva.in" target="_blank">
-    <img src="kapiva.svg" alt="Kapiva" width="60" style="background: white; border-radius: 8px; padding: 6px; border: 1px solid #e1e4e8;" />
+    <img src="kapiva.svg" alt="Kapiva" width="70" style="background: white; border-radius: 8px; padding: 6px; border: 1px solid #e1e4e8;" />
   </a>
 </p>
 
