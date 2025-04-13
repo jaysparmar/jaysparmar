@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td>
-      <img src="IMG_0427.jpeg" alt="Jay Parmar" width="100" style="border-radius: 50%;" />
+      <img src="IMG_0427.jpeg" alt="Jay Parmar" width="100" style="border-radius: 50%; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
     </td>
-    <td>
-      <h1>Jay Parmar</h1>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <h1 style="margin: 0;">Jay Parmar</h1>
     </td>
   </tr>
 </table>
