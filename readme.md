@@ -1,6 +1,6 @@
 # Jay Parmar
 
-![Profile Picture](https://via.placeholder.com/150)
+![Profile Picture](IMG_0427.jpeg)
 
 [![GitHub followers](https://img.shields.io/github/followers/jaysparmar?label=Followers&style=social)](https://github.com/jaysparmar?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/jaysparmar?label=Stars&style=social)](https://github.com/jaysparmar?tab=repositories)
