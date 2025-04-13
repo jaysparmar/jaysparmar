@@ -47,8 +47,7 @@ Hello! I'm Jay Parmar, a passionate software developer based in Bhuj, Kutch, Guj
 
 I have worked on several notable projects, including:
 
-### [Kapiva](https://kapiva.in)
-![Kapiva Logo](https://via.placeholder.com/100) <!-- Replace with actual logo URL -->
+### <img src="kapiva.svg" alt="Kapiva Logo" width="30" style="vertical-align: middle; margin-right: 8px;" /> [Kapiva](https://kapiva.in)
 A health and wellness e-commerce website that offers a range of Ayurvedic products. My role involved developing and maintaining the backend services, integrating third-party APIs, and ensuring the platform's scalability and performance.
 
 ### [PG Shop](https://pgshop.in)
