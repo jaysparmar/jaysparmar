@@ -1,6 +1,6 @@
 # Jay Parmar
 
-![Profile Picture](IMG_0427.jpeg)
+<img src="IMG_0427.jpeg" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 
 [![GitHub followers](https://img.shields.io/github/followers/jaysparmar?label=Followers&style=social)](https://github.com/jaysparmar?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/jaysparmar?label=Stars&style=social)](https://github.com/jaysparmar?tab=repositories)
