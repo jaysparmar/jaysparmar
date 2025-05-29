@@ -126,7 +126,6 @@ SDK to integrate Flutterwave with Laravel/PHP apps.
 
 ## 📊 GitHub Stats
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaysparmar\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysparmar\&layout=compact\&theme=radical)
 
 ## 📝 Blog Posts
