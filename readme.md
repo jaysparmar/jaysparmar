@@ -88,12 +88,6 @@ Led the DevOps efforts for the Zinzuu e-commerce platform, ensuring efficient an
 * Integrated real-time services using Bigcommerce and Shopify API.
 * Collaborated with product and design teams to deliver customer-centric features on schedule.
 
-## 🏆 Achievements and Certifications
-
-* **Certified AWS Solutions Architect**
-* **JavaScript Developer Certification by XYZ Institute**
-* **Open Source Contributor Award 2023**
-
 ## 🌟 Open Source Contributions
 
 ### npm Packages
