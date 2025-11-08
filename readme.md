@@ -138,8 +138,4 @@ SDK to integrate Flutterwave with Laravel/PHP apps.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jaykumar-parmar-76032028a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/jaysparmar)
 
-Feel free to reach out to me if you have any questions or if you would like to collaborate on a project!
 
----
-
-Let me know if you'd like to further customize this README or need assistance with any other updates.
