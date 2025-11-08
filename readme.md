@@ -1,6 +1,4 @@
-Certainly! Here's your updated GitHub profile README, incorporating the real data you've provided:
 
----
 
 <table>
   <tr>
